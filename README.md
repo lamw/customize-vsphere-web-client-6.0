@@ -26,16 +26,16 @@ There are two specific files that you will want to take a look at, the first is 
 ## Examples
 
 **Rawlinson Rivera Theme**
-![Rawlinson Rivera Theme](https://github.com/lamw/customize-vsphere-web-client-6.0/customize-vsphere-web-client6-ui-1.png)
+![Rawlinson Rivera Theme](https://github.com/lamw/customize-vsphere-web-client-6.0/blob/master/customize-vsphere-web-client6-ui-1.png)
 
 **Duncan Epping theme**
-![Duncan Epping theme](https://github.com/lamw/customize-vsphere-web-client-6.0/customize-vsphere-web-client6-ui-2.png)
+![Duncan Epping theme](https://github.com/lamw/customize-vsphere-web-client-6.0/blob/master/customize-vsphere-web-client6-ui-2.png)
 
 **Alan Renouf Theme**
-![Alan Renouf Theme](https://github.com/lamw/customize-vsphere-web-client-6.0/customize-vsphere-web-client6-ui-3.png)
+![Alan Renouf Theme](https://github.com/lamw/customize-vsphere-web-client-6.0/blob/master/customize-vsphere-web-client6-ui-3.png)
 
 **Mike Foley Theme**
-![Mike Foley Theme](https://github.com/lamw/customize-vsphere-web-client-6.0/customize-vsphere-web-client6-ui-4.png)
+![Mike Foley Theme](https://github.com/lamw/customize-vsphere-web-client-6.0/blob/master/customize-vsphere-web-client6-ui-4.png)
 
 **CaptainVSAN Theme**
-![CaptainVSAN Theme](https://github.com/lamw/customize-vsphere-web-client-6.0/customize-vsphere-web-client6-ui-5.png)
+![CaptainVSAN Theme](https://github.com/lamw/customize-vsphere-web-client-6.0/blob/master/customize-vsphere-web-client6-ui-5.png)
