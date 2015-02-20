@@ -18,8 +18,9 @@ body {
    background: -ms-linear-gradient(top,  #3a8dc8 0%,#183a62 100%); /* IE10+ */
    background: linear-gradient(to bottom,  #3a8dc8 0%,#183a62 100%); /* W3C */
    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3a8dc8', endColorstr='#183a62',GradientType=0 ); /* IE6-9 */
-   background-image: url(../../resources/img/rolo.jpg);
+   background-image: url(../../resources/img/punchingclouds.jpg);
    background-repeat:no-repeat;
+   background-size: 100%;
    margin: 0;
    font-size:12px;
    font-family:Arial, Helvetica, sans-serif;
@@ -199,14 +200,6 @@ body {
     font-size: 12.5px;
     padding-left: 20px;
     color: #87CEFF;
-}
-
-#rolo {
-    font-weight: bold;
-    margin-top: 20px;
-    font-size: 16px;
-    padding-left: 10px;
-    color: #FF3333;
 }
 
 #progressBar {
