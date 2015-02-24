@@ -39,3 +39,7 @@ There are two specific files that you will want to take a look at, the first is 
 
 **CaptainVSAN Theme**
 ![CaptainVSAN Theme](https://github.com/lamw/customize-vsphere-web-client-6.0/blob/master/customize-vsphere-web-client6-ui-5.png)
+
+**Cormac Hogan Theme**
+![Cormac Hogan Theme](https://github.com/lamw/customize-vsphere-web-client-6.0/blob/master/customize-vsphere-web-client6-ui-cormac.png)
+
