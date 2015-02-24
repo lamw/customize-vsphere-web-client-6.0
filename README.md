@@ -44,4 +44,4 @@ There are two specific files that you will want to take a look at, the first is 
 ![Inception_Theme](customize-vsphere-web-client6-ui-6.png)
 
 **Cormac Hogan Theme**
-![Cormac Hogan Theme](customize-vsphere-web-client7-ui-cormac.png)
+![Cormac Hogan Theme](customize-vsphere-web-client8-ui.png)
