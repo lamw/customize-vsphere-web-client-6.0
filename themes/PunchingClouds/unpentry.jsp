@@ -98,7 +98,6 @@ else {
            }
    </script>
    </br></br>
-   <div id="rolo">Disclaimer: Please do not stare at screen for long periods of time else you might start to sing Bieber songs</div>
    <div id="response" style="display:none"></div>
    <div id="progressBar" style="display:none"><img src="../../resources/img/Marge-anim-progressbar.gif"></div>
 </div>
