@@ -26,22 +26,22 @@ There are two specific files that you will want to take a look at, the first is 
 ## Examples
 
 **Rawlinson Rivera Theme**
-![Rawlinson Rivera Theme](customize-vsphere-web-client6-ui-1.png)
+![Rawlinson Rivera Theme](./RawlinsonRivera/sample.png)
 
 **Duncan Epping theme**
-![Duncan Epping theme](customize-vsphere-web-client6-ui-2.png)
+![Duncan Epping theme](./DuncanEpping/sample.png)
 
 **Alan Renouf Theme**
-![Alan Renouf Theme](customize-vsphere-web-client6-ui-3.png)
+![Alan Renouf Theme](./AlanRenouf/sample.png)
 
 **Mike Foley Theme**
-![Mike Foley Theme](customize-vsphere-web-client6-ui-4.png)
+![Mike Foley Theme](./MikeFoley/sample.png)
 
 **CaptainVSAN Theme**
-![CaptainVSAN Theme](customize-vsphere-web-client6-ui-5.png)
+![CaptainVSAN Theme](./CaptainVSAN/sample.png)
 
 **Inception Theme**
-![Inception_Theme](customize-vsphere-web-client6-ui-6.png)
+![Inception_Theme](./Inception/sample.png)
 
 **Cormac Hogan Theme**
-![Cormac Hogan Theme](customize-vsphere-web-client8-ui.png)
+![Cormac Hogan Theme](./CormacHogan/sample.png)
