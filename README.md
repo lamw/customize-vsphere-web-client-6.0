@@ -26,7 +26,7 @@ There are two specific files that you will want to take a look at, the first is 
 ## Examples
 
 **Rawlinson Rivera Theme**
-![Rawlinson Rivera Theme](./RawlinsonRivera/sample.png)
+![Rawlinson Rivera Theme](RawlinsonRivera/sample.png)
 
 **Duncan Epping theme**
 ![Duncan Epping theme](./DuncanEpping/sample.png)
