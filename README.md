@@ -26,22 +26,22 @@ There are two specific files that you will want to take a look at, the first is 
 ## Examples
 
 **Rawlinson Rivera Theme**
-![Rawlinson Rivera Theme](RawlinsonRivera/sample.png)
+![Rawlinson Rivera Theme](themes/RawlinsonRivera/sample.png)
 
 **Duncan Epping theme**
-![Duncan Epping theme](./DuncanEpping/sample.png)
+![Duncan Epping theme](themes/DuncanEpping/sample.png)
 
 **Alan Renouf Theme**
-![Alan Renouf Theme](./AlanRenouf/sample.png)
+![Alan Renouf Theme](themes/AlanRenouf/sample.png)
 
 **Mike Foley Theme**
-![Mike Foley Theme](./MikeFoley/sample.png)
+![Mike Foley Theme](themes/MikeFoley/sample.png)
 
 **CaptainVSAN Theme**
-![CaptainVSAN Theme](./CaptainVSAN/sample.png)
+![CaptainVSAN Theme](themes/CaptainVSAN/sample.png)
 
 **Inception Theme**
-![Inception_Theme](./Inception/sample.png)
+![Inception_Theme](themes/Inception/sample.png)
 
 **Cormac Hogan Theme**
-![Cormac Hogan Theme](./CormacHogan/sample.png)
+![Cormac Hogan Theme](themes/CormacHogan/sample.png)
