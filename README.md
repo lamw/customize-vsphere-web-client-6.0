@@ -23,6 +23,10 @@ There are two specific files that you will want to take a look at, the first is 
     /usr/lib/vmware-sso/vmware-sts/webapps/websso/resources/css/login.css
     /usr/lib/vmware-sso/vmware-sts/webapps/websso/resources/img
 
+## Contributing
+
+When you create a great looking theme be sure to create a pull request and add your changes back here.  When creating your own example please include a sample.png or sample.gif file in the folder for others to view.
+
 ## Examples
 
 **Rawlinson Rivera Theme**
