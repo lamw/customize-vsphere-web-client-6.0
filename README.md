@@ -23,25 +23,29 @@ There are two specific files that you will want to take a look at, the first is 
     /usr/lib/vmware-sso/vmware-sts/webapps/websso/resources/css/login.css
     /usr/lib/vmware-sso/vmware-sts/webapps/websso/resources/img
 
+## Contributing
+
+When you create a great looking theme be sure to create a pull request and add your changes back here.  When creating your own example please include a sample.png or sample.gif file in the folder for others to view.
+
 ## Examples
 
 **Rawlinson Rivera Theme**
-![Rawlinson Rivera Theme](customize-vsphere-web-client6-ui-1.png)
+![Rawlinson Rivera Theme](themes/RawlinsonRivera/sample.png)
 
 **Duncan Epping theme**
-![Duncan Epping theme](customize-vsphere-web-client6-ui-2.png)
+![Duncan Epping theme](themes/DuncanEpping/sample.png)
 
 **Alan Renouf Theme**
-![Alan Renouf Theme](customize-vsphere-web-client6-ui-3.png)
+![Alan Renouf Theme](themes/AlanRenouf/sample.png)
 
 **Mike Foley Theme**
-![Mike Foley Theme](customize-vsphere-web-client6-ui-4.png)
+![Mike Foley Theme](themes/MikeFoley/sample.png)
 
 **CaptainVSAN Theme**
-![CaptainVSAN Theme](customize-vsphere-web-client6-ui-5.png)
+![CaptainVSAN Theme](themes/CaptainVSAN/sample.png)
 
 **Inception Theme**
-![Inception_Theme](customize-vsphere-web-client6-ui-6.png)
+![Inception_Theme](themes/Inception/sample.png)
 
 **Cormac Hogan Theme**
-![Cormac Hogan Theme](customize-vsphere-web-client8-ui.png)
+![Cormac Hogan Theme](themes/CormacHogan/sample.png)
