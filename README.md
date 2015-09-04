@@ -50,5 +50,5 @@ When you create a great looking theme be sure to create a pull request and add y
 **Cormac Hogan Theme**
 ![Cormac Hogan Theme](themes/CormacHogan/sample.png)
 
-**Nigel MacCloud Theme**
-![Nigel MacCloud Theme](themes/NigelMcCloud/sample.png
+**Nigel McCloud Theme**
+![Nigel McCloud Theme](themes/NigelMcCloud/sample.png)
