@@ -1,10 +1,10 @@
-# Customize the vSphere Web Client 6.0 Login UI
+# Customize the vSphere Web Client 6.0 & 6.0u1 Login UI
 
 In vSphere 6.0, the vCenter Single Sign-On login page is now written using regular HTML and CSS. This means you can actually now customize the login page with your own logos, colors or text that you wish to display to your end users. Not only can you customize the login for vCenter Server but you can also do the same for vRealize Automation Center as long as you are using the latest version of the Platform Services Controller which now provides other services in addition to vCenter Single Sign-On.
 
 ## Requirements
 
-* Running vSphere 6.0 (for vSphere 6.0 Update 1 environments, please use https://github.com/lamw/customize-vsphere-web-client-6.0u1)
+* Running vSphere 6.0 or 6.0 Update 1 (for vSphere 6.0 Update 2 environments, please use https://github.com/lamw/customize-vsphere-web-client-6.0u2)
 * vCenter Server with Platform Services Controller (Embedded or External)
 
 ## Configurations
