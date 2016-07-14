@@ -18,10 +18,10 @@ body {
    background: -ms-linear-gradient(top,  #3a8dc8 0%,#183a62 100%); /* IE10+ */
    background: linear-gradient(to bottom,  #3a8dc8 0%,#183a62 100%); /* W3C */
    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3a8dc8', endColorstr='#183a62',GradientType=0 ); /* IE6-9 */
-   background: no-repeat center center fixed;
-	 background-image: url(../../resources/img/nigel_mccloud.png);
-	 background-size: cover;
-	 margin: 0;
+   //background: no-repeat center center fixed;
+   background-image: url(../../resources/img/nigel_mccloud.png);
+   background-size: cover;
+   margin: 0;
    font-size:12px;
    font-family:Arial, Helvetica, sans-serif;
    color: #87ceff;
