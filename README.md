@@ -4,7 +4,7 @@ In vSphere 6.0, the vCenter Single Sign-On login page is now written using regul
 
 ## Requirements
 
-* Running vSphere 6.0 or 6.0 Update 1 (for vSphere 6.0 Update 2 environments, please use https://github.com/lamw/customize-vsphere-web-client-6.0u2)
+* Running vSphere 6.0 or 6.0 Update 1 (for vSphere 6.0 Update 2 environments, please use https://github.com/lamw/customize-vsphere-web-client-6.0u2 and for vSphere 6.5, have a look at the repo here https://github.com/lamw/customize-vsphere-web-client-6.5 )
 * vCenter Server with Platform Services Controller (Embedded or External)
 
 ## Configurations
